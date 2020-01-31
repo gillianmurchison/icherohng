@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://yiawooghus.linkedwork.com/sitemap.xml
